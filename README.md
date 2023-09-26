@@ -1,5 +1,5 @@
 # DISCLAIMER
-This content has been published in support of the claims made in the book ["The Language of Deception: Weaponizing Next Generation AI"](https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548/), written by [Justin Hutchens](https://www.linkedin.com/in/justinhutchens/) and published by [Wiley](https://www.wiley.com/). This content is intended exclusively for academic purposes.
+This content has been published in support of the claims made in the book [The Language of Deception: Weaponizing Next Generation AI](https://www.amazon.com/Language-Deception-Weaponizing-Next-Generation/dp/1394222548/), written by [Justin Hutchens](https://www.linkedin.com/in/justinhutchens/) and published by [Wiley](https://www.wiley.com/). This content is intended exclusively for academic purposes.
 
 # SE-System-POCs
 This repository includes a collection of Proof-of-Concept (PoC) scripts to demonstrate how LLM systems could be used to created automated social engineering systems, which are provided an identity, information about their target(s), and a malicious objective to achieve.
